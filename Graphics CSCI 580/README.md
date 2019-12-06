@@ -1,6 +1,6 @@
 This folder contains work in CSCI 580 3D graphics and redering course at Unviersity of Southern California, 2019 FALL.
 
-In the six homework of this course, we buit a Gz library.
+In the six homework of this course, we built a Gz library.
 Followings are implemented:
   <ol>
   <li>Pixel Drawing</li>
